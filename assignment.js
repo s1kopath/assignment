@@ -1,4 +1,4 @@
-// https://github.com/s1kopath/assignment
+// https://github.com/s1kopath/assignment-3
 // Converter kilometer to Meter
 function kilometerToMeter(kilometer){
     if(kilometer < 0){
